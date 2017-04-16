@@ -1,0 +1,6 @@
+[Upgrading a copy of OpenAura]
+
+o Delete garrysmod/gamemodes/openaura and garrysmod/gamemodes/<schema> from your server.
+o Extract the files in this archive to just outside of your garrysmod/ directory.
+o Enter your Steam ID into garrysmod/gamemodes/openaura/owner.cfg to become a super admin.
+o Edit garrysmod/gamemodes/openaura/mysql.cfg with your own MySQL database information and save the file.
